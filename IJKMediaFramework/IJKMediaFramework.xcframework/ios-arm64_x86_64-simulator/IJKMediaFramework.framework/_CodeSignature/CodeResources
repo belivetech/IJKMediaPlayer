@@ -4,6 +4,30 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/libavcodec.a</key>
+		<data>
+		LfF5wwxyc5ChEh/4KJsxy8RQJzA=
+		</data>
+		<key>Frameworks/libavfilter.a</key>
+		<data>
+		nBsB91i8zgZsMneeEEL/BFR865s=
+		</data>
+		<key>Frameworks/libavformat.a</key>
+		<data>
+		fNVY7Mhnvf3ZT0aEB0IIC2rw7WE=
+		</data>
+		<key>Frameworks/libavutil.a</key>
+		<data>
+		vYIIKrVGs56wtwrK+Wuk3UEEMX4=
+		</data>
+		<key>Frameworks/libswresample.a</key>
+		<data>
+		gW1K/6gHpMaK0qYyGmCDA7otrnQ=
+		</data>
+		<key>Frameworks/libswscale.a</key>
+		<data>
+		br4xyxdSCtkEL0THCgtaRM1Z2KU=
+		</data>
 		<key>Headers/IJKAVMoviePlayerController.h</key>
 		<data>
 		av2l7q3/jILo/C/mal91ihf4xCA=
@@ -54,7 +78,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HSMYcYMJr3EW1Gbva4OofAgp7ms=
+		h2c7pFHCRjMzhrCBh1Ok8AzzeJc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,6 +87,72 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/libavcodec.a</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LfF5wwxyc5ChEh/4KJsxy8RQJzA=
+			</data>
+			<key>hash2</key>
+			<data>
+			LPQ0oXkhqa+Yzk4UZiySnQZhJgZCcQeQQxTMY4GlTAU=
+			</data>
+		</dict>
+		<key>Frameworks/libavfilter.a</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nBsB91i8zgZsMneeEEL/BFR865s=
+			</data>
+			<key>hash2</key>
+			<data>
+			SpsSxFNS15vB6WcyGtNLPgUbTPUJyIMWtd/pbbVSsSQ=
+			</data>
+		</dict>
+		<key>Frameworks/libavformat.a</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fNVY7Mhnvf3ZT0aEB0IIC2rw7WE=
+			</data>
+			<key>hash2</key>
+			<data>
+			+eIecKqsu0eITjNImvnhkxy8uOCPkKvtytdNaLzK9Uc=
+			</data>
+		</dict>
+		<key>Frameworks/libavutil.a</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vYIIKrVGs56wtwrK+Wuk3UEEMX4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ODgBT1NXAirncGi8Il/J3mYt1CrKypdTIAWJghnDzqg=
+			</data>
+		</dict>
+		<key>Frameworks/libswresample.a</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gW1K/6gHpMaK0qYyGmCDA7otrnQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			KhE4cRjrRJR9NEl5K7jj0tvkEBuZOjl7y3D6TZN8QZs=
+			</data>
+		</dict>
+		<key>Frameworks/libswscale.a</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			br4xyxdSCtkEL0THCgtaRM1Z2KU=
+			</data>
+			<key>hash2</key>
+			<data>
+			qThQFAPusObXuqqqF6BSEiYI2rChKD5YeuEZg0l5Vhc=
+			</data>
+		</dict>
 		<key>Headers/IJKAVMoviePlayerController.h</key>
 		<dict>
 			<key>hash</key>

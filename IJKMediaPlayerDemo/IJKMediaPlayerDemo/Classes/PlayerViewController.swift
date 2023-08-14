@@ -3,7 +3,7 @@
 //  IJKMediaPlayerDemo
 //
 //  Created by Thu Le on 19/07/2022.
-//  Copyright © 2022 lee5783. All rights reserved.
+//  Copyright © 2022 BeLive. All rights reserved.
 //
 
 import UIKit

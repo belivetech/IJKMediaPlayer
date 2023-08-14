@@ -13,7 +13,7 @@
 		66C9A2851E0C238A000E4AD3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C9A2841E0C238A000E4AD3 /* AppDelegate.swift */; };
 		66C9A28C1E0C238A000E4AD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66C9A28B1E0C238A000E4AD3 /* Assets.xcassets */; };
 		66C9A28F1E0C238A000E4AD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66C9A28D1E0C238A000E4AD3 /* LaunchScreen.storyboard */; };
-		E1A1CF2D1C955CA4D93937CD /* Pods_IJKMediaPlayerDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01238293F6A4A12DF99284D0 /* Pods_IJKMediaPlayerDemo.framework */; };
+		928A1388AC6F61B0705C79B8 /* Pods_IJKMediaPlayerDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D87A4BC02EAE5201C9D6CC9 /* Pods_IJKMediaPlayerDemo.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,9 +30,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		01238293F6A4A12DF99284D0 /* Pods_IJKMediaPlayerDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IJKMediaPlayerDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1A261D69D90B56125A8A7E8D /* Pods-TLMonthYearPickerExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TLMonthYearPickerExample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TLMonthYearPickerExample/Pods-TLMonthYearPickerExample.debug.xcconfig"; sourceTree = "<group>"; };
-		46D317F5C5D552CA5D2A1DAF /* Pods-TLMonthYearPickerExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TLMonthYearPickerExample.release.xcconfig"; path = "Pods/Target Support Files/Pods-TLMonthYearPickerExample/Pods-TLMonthYearPickerExample.release.xcconfig"; sourceTree = "<group>"; };
+		1D87A4BC02EAE5201C9D6CC9 /* Pods_IJKMediaPlayerDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IJKMediaPlayerDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		666555BF28866F4C0023D937 /* InputLinkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputLinkViewController.swift; sourceTree = "<group>"; };
 		666555C128866F730023D937 /* MediaPlayer.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MediaPlayer.storyboard; sourceTree = "<group>"; };
 		666555C328868A660023D937 /* PlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
@@ -41,8 +39,8 @@
 		66C9A28B1E0C238A000E4AD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66C9A28E1E0C238A000E4AD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		66C9A2901E0C238A000E4AD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		75BADEF3D6943E55924B0439 /* Pods-IJKMediaPlayerDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IJKMediaPlayerDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IJKMediaPlayerDemo/Pods-IJKMediaPlayerDemo.debug.xcconfig"; sourceTree = "<group>"; };
-		F55624DE19375A82B7054614 /* Pods-IJKMediaPlayerDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IJKMediaPlayerDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-IJKMediaPlayerDemo/Pods-IJKMediaPlayerDemo.release.xcconfig"; sourceTree = "<group>"; };
+		6D87B0B6A3A64AA39FCAA006 /* Pods-IJKMediaPlayerDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IJKMediaPlayerDemo.release.xcconfig"; path = "Target Support Files/Pods-IJKMediaPlayerDemo/Pods-IJKMediaPlayerDemo.release.xcconfig"; sourceTree = "<group>"; };
+		96AAB935CB3B71AF8F0E730E /* Pods-IJKMediaPlayerDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IJKMediaPlayerDemo.debug.xcconfig"; path = "Target Support Files/Pods-IJKMediaPlayerDemo/Pods-IJKMediaPlayerDemo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,30 +48,19 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1A1CF2D1C955CA4D93937CD /* Pods_IJKMediaPlayerDemo.framework in Frameworks */,
+				928A1388AC6F61B0705C79B8 /* Pods_IJKMediaPlayerDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		30B1395AB73D158AED3CE457 /* Frameworks */ = {
+		5069D64FA96B5BADCF4A16AC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				01238293F6A4A12DF99284D0 /* Pods_IJKMediaPlayerDemo.framework */,
+				1D87A4BC02EAE5201C9D6CC9 /* Pods_IJKMediaPlayerDemo.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		5BDD6B468A14049A45175AB1 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				1A261D69D90B56125A8A7E8D /* Pods-TLMonthYearPickerExample.debug.xcconfig */,
-				46D317F5C5D552CA5D2A1DAF /* Pods-TLMonthYearPickerExample.release.xcconfig */,
-				75BADEF3D6943E55924B0439 /* Pods-IJKMediaPlayerDemo.debug.xcconfig */,
-				F55624DE19375A82B7054614 /* Pods-IJKMediaPlayerDemo.release.xcconfig */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 		66C9A2781E0C238A000E4AD3 = {
@@ -81,8 +68,8 @@
 			children = (
 				66C9A2831E0C238A000E4AD3 /* IJKMediaPlayerDemo */,
 				66C9A2821E0C238A000E4AD3 /* Products */,
-				5BDD6B468A14049A45175AB1 /* Pods */,
-				30B1395AB73D158AED3CE457 /* Frameworks */,
+				E5DB9654762F52FCB4745026 /* Pods */,
+				5069D64FA96B5BADCF4A16AC /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -116,6 +103,16 @@
 			path = Classes;
 			sourceTree = "<group>";
 		};
+		E5DB9654762F52FCB4745026 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				96AAB935CB3B71AF8F0E730E /* Pods-IJKMediaPlayerDemo.debug.xcconfig */,
+				6D87B0B6A3A64AA39FCAA006 /* Pods-IJKMediaPlayerDemo.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -123,7 +120,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 66C9A2931E0C238A000E4AD3 /* Build configuration list for PBXNativeTarget "IJKMediaPlayerDemo" */;
 			buildPhases = (
-				098E83E7C615CD2A7FECE41B /* [CP] Check Pods Manifest.lock */,
+				5DD5655A8CB39EDCAC8619A3 /* [CP] Check Pods Manifest.lock */,
 				66C9A27D1E0C238A000E4AD3 /* Sources */,
 				66C9A27E1E0C238A000E4AD3 /* Frameworks */,
 				66C9A27F1E0C238A000E4AD3 /* Resources */,
@@ -146,7 +143,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 1200;
-				ORGANIZATIONNAME = lee5783;
+				ORGANIZATIONNAME = BeLive;
 				TargetAttributes = {
 					66C9A2801E0C238A000E4AD3 = {
 						CreatedOnToolsVersion = 8.2;
@@ -189,16 +186,20 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		098E83E7C615CD2A7FECE41B /* [CP] Check Pods Manifest.lock */ = {
+		5DD5655A8CB39EDCAC8619A3 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			inputFileListPaths = (
 			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-IJKMediaPlayerDemo-checkManifestLockResult.txt",
 			);
@@ -351,7 +352,7 @@
 		};
 		66C9A2941E0C238A000E4AD3 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 75BADEF3D6943E55924B0439 /* Pods-IJKMediaPlayerDemo.debug.xcconfig */;
+			baseConfigurationReference = 96AAB935CB3B71AF8F0E730E /* Pods-IJKMediaPlayerDemo.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -369,7 +370,7 @@
 		};
 		66C9A2951E0C238A000E4AD3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F55624DE19375A82B7054614 /* Pods-IJKMediaPlayerDemo.release.xcconfig */;
+			baseConfigurationReference = 6D87B0B6A3A64AA39FCAA006 /* Pods-IJKMediaPlayerDemo.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;

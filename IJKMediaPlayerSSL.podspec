@@ -2,23 +2,23 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "IJKMediaPlayerSSL"
-  s.version      = "1.0.0"
-  s.summary      = "A simple month and year picker."
-  s.description  = "A simple month and year picker."
-  s.homepage     = "https://github.com/lee5783/TLMonthYearPicker"
+  s.version      = "0.0.1"
+  s.summary      = "IJKMediaPlayer with SSL"
+  s.description  = "IJKMediaPlayer with SSL"
+  s.homepage     = "https://github.com/thula-belive/IJKMediaPlayer"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.author             = "lee5783"
+  s.author             = "Thu Le (Tommy)"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios, "11.0"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git => "https://github.com/lee5783/TLMonthYearPicker.git", :tag => "4.1.0" }
+  s.source       = { :git => "https://github.com/thula-belive/IJKMediaPlayer.git", :tag => "0.0.1" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source_files  = "Classes", "Classes/**/*.{h,m,swift}"

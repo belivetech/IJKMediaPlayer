@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  TLMonthYearPickerExample
+//  IJKMediaPlayerDemo
 //
 //  Created by Thu Le on 12/22/16.
-//  Copyright © 2016 lee5783. All rights reserved.
+//  Copyright © 2016 BeLive. All rights reserved.
 //
 
 import UIKit
